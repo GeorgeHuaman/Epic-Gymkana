@@ -8,6 +8,7 @@ public class ThrowBait : MonoBehaviour
     public GameObject shark;
     public Transform point;
     public float speed = 5f;
+    public float rotationSpeed = 5f;
     private bool isMoving;
     private void Update()
     {
@@ -20,9 +21,15 @@ public class ThrowBait : MonoBehaviour
         {
             Throw();
         }
+        Vector3 direction = (point.position - shark.transform.position).normalized;
         if (isMoving)
         {
             shark.transform.position = Vector3.MoveTowards(shark.transform.position, point.position, speed * Time.deltaTime);
+            if (direction != Vector3.zero) // Evita errores cuando ya está en la posición exacta
+            {
+                Quaternion lookRotation = Quaternion.LookRotation(direction);
+                shark.transform.rotation = Quaternion.Slerp(shark.transform.rotation, lookRotation, rotationSpeed * Time.deltaTime);
+            }
         }
     }
     public void Throw()

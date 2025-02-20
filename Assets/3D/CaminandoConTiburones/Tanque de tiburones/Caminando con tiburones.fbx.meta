@@ -3,72 +3,7 @@ guid: fa7a3fac1133ef147b2d0c2f58643a2c
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_coral
-    second: {fileID: 2100000, guid: 24598d25bbc2c6f4296ccb4999f01376, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_coral_01
-    second: {fileID: 2100000, guid: 45957287e35eca94f8c7b36f88f09bea, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_coral_02
-    second: {fileID: 2100000, guid: 1f4ace34c98ec114b9bed584f2de0e17, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_coral_03
-    second: {fileID: 2100000, guid: 840c375f79448754198df24c5ff6f2dc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tiger shark
-    second: {fileID: 2100000, guid: 8ffe9f96d13f0af41be09a131b2819d4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aerial_beach_01
-    second: {fileID: 2100000, guid: ade92175b14916b4fa04df613c834344, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: body_v3
-    second: {fileID: 2100000, guid: 37c677eceae1eb6499edd0cea695c8c9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: eye.003
-    second: {fileID: 2100000, guid: bf52809126090a44c91678294b99c590, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mat_0-megalodon.jpg
-    second: {fileID: 2100000, guid: 7ee3d5d68d5ce5048ad781fef353ffe6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: material_0
-    second: {fileID: 2100000, guid: 3b68e66bd42149740acc77df5144f70a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: rock_04
-    second: {fileID: 2100000, guid: 6dbc0df01f7f06848b8f508c1e950001, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: rock_05
-    second: {fileID: 2100000, guid: 0a64597abbd7c2b4fb4c8b17b7567ded, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: whale-shark-skin
-    second: {fileID: 2100000, guid: e906c123d33186b40a96276821e41f83, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

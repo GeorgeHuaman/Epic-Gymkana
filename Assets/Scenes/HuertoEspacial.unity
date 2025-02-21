@@ -300,11 +300,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7630386683638614712, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 83c31ae738a73bc49a02996b7174dd17, type: 2}
+    - target: {fileID: -7630386683638614712, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: -1390228955968917828, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
     - target: {fileID: 919132149155446097, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
         type: 3}
       propertyPath: m_Name
       value: HuetoEspacial
       objectReference: {fileID: 0}
+    - target: {fileID: 6053643912638601902, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38e43cde7a1569345bc5a1de0b153715, type: 2}
+    - target: {fileID: 6053643912638601902, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: -1390228955968917828, guid: 5f7257b016ce1034098fbb9cc5c2abcf,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f7257b016ce1034098fbb9cc5c2abcf, type: 3}
 --- !u!1 &1802799489

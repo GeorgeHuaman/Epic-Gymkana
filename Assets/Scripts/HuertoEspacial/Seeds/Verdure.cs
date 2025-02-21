@@ -11,10 +11,10 @@ public class Verdure : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && inZone)
-        {
-                Harvest();
-        }
+        //if (Input.GetKeyDown(KeyCode.E) && inZone)
+        //{
+        //        Harvest();
+        //}
     }
     public void Harvest()
     {

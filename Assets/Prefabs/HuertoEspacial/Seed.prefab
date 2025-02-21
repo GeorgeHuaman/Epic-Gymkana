@@ -482,12 +482,90 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b88b077dd9d1f4946b21d4808629596d, type: 3}
+--- !u!114 &7023636923975720212 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -2121541671120268351, guid: b88b077dd9d1f4946b21d4808629596d,
+    type: 3}
+  m_PrefabInstance: {fileID: 285483275883106005}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7422866088403226100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7422866088403226100 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7274840516754309921, guid: b88b077dd9d1f4946b21d4808629596d,
     type: 3}
   m_PrefabInstance: {fileID: 285483275883106005}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &734420003522938752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7422866088403226100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7023636923975720212}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &8175376411805246761 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8251430210379033596, guid: b88b077dd9d1f4946b21d4808629596d,
@@ -584,12 +662,90 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 871713070949622016}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &824830160955308471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696897206599763310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 9064250877649883262}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &5360809349395980244 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5079385108663992020, guid: 01015648769cea845b6fb9aa55d4e5d7,
     type: 3}
   m_PrefabInstance: {fileID: 871713070949622016}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &9064250877649883262 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8201690771776893310, guid: 01015648769cea845b6fb9aa55d4e5d7,
+    type: 3}
+  m_PrefabInstance: {fileID: 871713070949622016}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696897206599763310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &898064587025818587
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -675,12 +831,90 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 898064587025818587}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2677281402861310226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344398967896447390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4289685244756179020}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &3153411289409307428 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2861397818704847103, guid: c83723b8a707cff42ac747519c0633b5,
     type: 3}
   m_PrefabInstance: {fileID: 898064587025818587}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4289685244756179020 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4034828322241584023, guid: c83723b8a707cff42ac747519c0633b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 898064587025818587}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344398967896447390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1565127261482022296
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -771,12 +1005,90 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1565127261482022296}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &634682332896808450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98511465239014070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 9206981554723860935}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &726815717209387020 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2282860986862257556, guid: 98099db94b3736145aac5dde47f58ed8,
     type: 3}
   m_PrefabInstance: {fileID: 1565127261482022296}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &9206981554723860935 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -1549882573582646177, guid: 98099db94b3736145aac5dde47f58ed8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1565127261482022296}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98511465239014070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4377727649613777553
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -867,6 +1179,84 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 4377727649613777553}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8388343951588044839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545781418050014564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2177605516802725853}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+--- !u!114 &2177605516802725853 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2519967076883864908, guid: ac954a59412c2234995b410fb5efc2f8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4377727649613777553}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545781418050014564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &2177605516802725854 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2519967076883864911, guid: ac954a59412c2234995b410fb5efc2f8,
@@ -963,12 +1353,90 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 5329290633377047690}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &336718404904583323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1179012259695299467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5297667403601416832}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &1952136491589718321 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5972354007552308667, guid: 031fc9a68c54b0143ae4e1ae2670497e,
     type: 3}
   m_PrefabInstance: {fileID: 5329290633377047690}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5297667403601416832 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -9191730329573558774, guid: 031fc9a68c54b0143ae4e1ae2670497e,
+    type: 3}
+  m_PrefabInstance: {fileID: 5329290633377047690}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1179012259695299467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5344774864266846782
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1054,12 +1522,90 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 5344774864266846782}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &325451060766320290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2859615616233420908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 3812803974917736368}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &3234910458069705430 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7406382376139292904, guid: a58aa32bae2041c42a4524ce3a5816ae,
     type: 3}
   m_PrefabInstance: {fileID: 5344774864266846782}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &3812803974917736368 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9134911276829681038, guid: a58aa32bae2041c42a4524ce3a5816ae,
+    type: 3}
+  m_PrefabInstance: {fileID: 5344774864266846782}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2859615616233420908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5506527718343493334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1156,6 +1702,84 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 5506527718343493334}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1807260203294181961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5301569306074982883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 8464231860875689213}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+--- !u!114 &8464231860875689213 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4115696051510131243, guid: 2f21325cd728211489173aac5e1c1350,
+    type: 3}
+  m_PrefabInstance: {fileID: 5506527718343493334}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5301569306074982883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &6132758114122575359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1240,12 +1864,90 @@ PrefabInstance:
       objectReference: {fileID: 5254370765628911412}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4fdfc8f393cc7f4b88e3938fe75275c, type: 3}
+--- !u!114 &4339562542652036682 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7575852960127007669, guid: f4fdfc8f393cc7f4b88e3938fe75275c,
+    type: 3}
+  m_PrefabInstance: {fileID: 6132758114122575359}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4676446083407826439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4676446083407826439 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1584701836263285752, guid: f4fdfc8f393cc7f4b88e3938fe75275c,
     type: 3}
   m_PrefabInstance: {fileID: 6132758114122575359}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6651846187145549672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4676446083407826439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4339562542652036682}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &5453228316942800061 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2213006020132845890, guid: f4fdfc8f393cc7f4b88e3938fe75275c,
@@ -1348,6 +2050,84 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 7531321986648310558}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5756425829095103293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2160634098738191342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2384680716813045488}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+--- !u!114 &2384680716813045488 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5304315721207942638, guid: d9edf661ef7d79d488607905ec85e33b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7531321986648310558}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2160634098738191342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7547639230739289747
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1432,12 +2212,90 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85c6ebece806c7c4290b2c7f03aa53db, type: 3}
+--- !u!114 &7751719903765284882 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 228907096933260929, guid: 85c6ebece806c7c4290b2c7f03aa53db,
+    type: 3}
+  m_PrefabInstance: {fileID: 7547639230739289747}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111924517408795076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8111924517408795076 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1742261637649956695, guid: 85c6ebece806c7c4290b2c7f03aa53db,
     type: 3}
   m_PrefabInstance: {fileID: 7547639230739289747}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5791020907208308337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111924517408795076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7751719903765284882}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &8924033235443168126 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1397823520990963181, guid: 85c6ebece806c7c4290b2c7f03aa53db,
@@ -1528,12 +2386,90 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d421d350cd04ac34da5b923b28a658bd, type: 3}
+--- !u!114 &2776390344246066419 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -3700345311781599296, guid: d421d350cd04ac34da5b923b28a658bd,
+    type: 3}
+  m_PrefabInstance: {fileID: 7647679264864975667}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3492010612947722944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3492010612947722944 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6508861322212481523, guid: d421d350cd04ac34da5b923b28a658bd,
     type: 3}
   m_PrefabInstance: {fileID: 7647679264864975667}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1351214389172131487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3492010612947722944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2776390344246066419}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &4268794015246514298 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5845617682202837833, guid: d421d350cd04ac34da5b923b28a658bd,
@@ -1624,12 +2560,90 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b6065bcd4c4aa54c813c83e4199a753, type: 3}
+--- !u!114 &5731724672978437646 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -6641540867954796524, guid: 1b6065bcd4c4aa54c813c83e4199a753,
+    type: 3}
+  m_PrefabInstance: {fileID: 7809150477339745818}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100179320712556785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8100179320712556785 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2032868154822176491, guid: 1b6065bcd4c4aa54c813c83e4199a753,
     type: 3}
   m_PrefabInstance: {fileID: 7809150477339745818}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8243320471542493312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8100179320712556785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5731724672978437646}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &8872740529393707595 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1692758058940331089, guid: 1b6065bcd4c4aa54c813c83e4199a753,
@@ -1737,6 +2751,84 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 7972278239062144087}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &7300013551163684098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727850697705530998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 7034537275136015273}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+--- !u!114 &7034537275136015273 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1097904899206270974, guid: 0b48a635e7220784abf22ab1a49eb44f,
+    type: 3}
+  m_PrefabInstance: {fileID: 7972278239062144087}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727850697705530998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &8370447970520291499
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1826,6 +2918,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9eb113abc11b2f4fb094909585e9baa, type: 3}
+--- !u!114 &178000122054816174 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8525784953366898949, guid: c9eb113abc11b2f4fb094909585e9baa,
+    type: 3}
+  m_PrefabInstance: {fileID: 8370447970520291499}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987198108909339293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &7319452136633718823 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1277374008387862668, guid: c9eb113abc11b2f4fb094909585e9baa,
@@ -1838,6 +2942,72 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 8370447970520291499}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8924048504417754877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987198108909339293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 178000122054816174}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!1001 &8789586495146087281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1923,9 +3093,87 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 8789586495146087281}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6712849400979599248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6924281955434496738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Recolectar
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 2
+  visibilityRadius: 4
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 8582133962282305599}
+          m_TargetAssemblyTypeName: Verdure, NewAssembly
+          m_MethodName: Harvest
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 1
+        questEventType: 3
+        taskID: 1
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!4 &7736108202279983192 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1343989365375929129, guid: e015289c2de86b74d8243aa0f277d479,
     type: 3}
   m_PrefabInstance: {fileID: 8789586495146087281}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &8582133962282305599 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -8150601600215819442, guid: e015289c2de86b74d8243aa0f277d479,
+    type: 3}
+  m_PrefabInstance: {fileID: 8789586495146087281}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6924281955434496738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

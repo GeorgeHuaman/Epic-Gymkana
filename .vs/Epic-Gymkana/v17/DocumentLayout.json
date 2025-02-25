@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Gymkana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|e:\\proyectos\\epic-gymkana\\assets\\scripts\\volcan\\resetposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|e:\\proyectos\\epic-gymkana\\assets\\scripts\\volcan\\spawnrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\volcan\\spawnrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\volcan\\destroyrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\volcan\\destroyrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\volcan\\resetposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\volcan\\resetposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\volcan\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\volcan\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\huertoespacial\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyRocks.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\DestroyRocks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volcan\\DestroyRocks.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\DestroyRocks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volcan\\DestroyRocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:28:41.145Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpawnRocks.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\SpawnRocks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volcan\\SpawnRocks.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\SpawnRocks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volcan\\SpawnRocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:22:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lava.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\Lava.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Volcan\\Lava.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\Lava.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Volcan\\Lava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:45:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ResetPosition.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\ResetPosition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Volcan\\ResetPosition.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Volcan\\ResetPosition.cs",
               "RelativeToolTip": "Assets\\Scripts\\Volcan\\ResetPosition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:39:09.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T21:39:09.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TypeSeed.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
@@ -71,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Verdure.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
@@ -83,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Zone.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
@@ -95,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ParachuteFall.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
@@ -107,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FlashAnim.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\CaminandoConTiburones\\FlashAnim.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CaminandoConTiburones\\FlashAnim.cs",
@@ -118,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ThrowBait.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\CaminandoConTiburones\\ThrowBait.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CaminandoConTiburones\\ThrowBait.cs",
@@ -130,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GravityControl.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\GravityControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\GravityControl.cs",

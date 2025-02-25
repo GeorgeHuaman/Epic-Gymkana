@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_5
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 37ut57weh613wuyevy1p2vzi
+  packageName: "Gymkana Science Fair -LEONES 360\xB0 NAT GEO"
+  thumbnail: {fileID: 2800000, guid: d4c23a75a31f60846934b68a9f310d68, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: 0fxf4zc2ep7892aybysti
+  scene: {fileID: 102900000, guid: 9347711a0af740d4a9e905a6f014bd9b, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 798180db0ef571846861e03fc65b1857,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16

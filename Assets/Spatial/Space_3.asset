@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_3
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: mc52tru9vdlw9idqqfbm6sbw
   packageName: "CAMINATA ESPACIAL 360\xB0"
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  thumbnail: {fileID: 2800000, guid: ef8cd6836f0bc214d93f141d5f1ab05b, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: 0fxf4zc2ep7892aybysti
   scene: {fileID: 102900000, guid: 4d76260f2a212c24989490f07cc059a1, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 798180db0ef571846861e03fc65b1857,
     type: 3}

@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: c36b97069f051144c98c664cac780b6f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_10
+    second: {fileID: 2100000, guid: d3fa287f99a393249ae44ace471152ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_11
+    second: {fileID: 2100000, guid: 3338eef6f99fccb43ab995a24b1981bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_12
+    second: {fileID: 2100000, guid: 925abca0a8495264195cb2286d395d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_13
+    second: {fileID: 2100000, guid: 3a8cfb6a93d46ce498e88f3bad1eb1f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_14
+    second: {fileID: 2100000, guid: b435ca982a93a2d46801e5c1796952dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_15
+    second: {fileID: 2100000, guid: c2010690d840fe446987d8a7d6a34bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_16
+    second: {fileID: 2100000, guid: 0beaea950f08c4545b05a7c599f46f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_17
+    second: {fileID: 2100000, guid: 20e2d35d12d80b94da89cb126055f295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_18
+    second: {fileID: 2100000, guid: 82787799dfa4176488b7ef0d56c65a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_19
+    second: {fileID: 2100000, guid: 800e6ded5770b2247b2c5fc2aa0154c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_2
+    second: {fileID: 2100000, guid: b62206907945176408491f3ebb30382c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_20
+    second: {fileID: 2100000, guid: 6fbe26a7503821f489fee97c796b3643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_21
+    second: {fileID: 2100000, guid: c631a8c3ebf73dc4da2b1cb254bf8d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_22
+    second: {fileID: 2100000, guid: 027aeba4fa97931458dd8734313badb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_23
+    second: {fileID: 2100000, guid: 2533a85d6c1f156439bb949e5109f4d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_24
+    second: {fileID: 2100000, guid: fe835d1bec037744b9d9d94d029a4ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_25
+    second: {fileID: 2100000, guid: f32eab011080e394bb894ace44ebf162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_26
+    second: {fileID: 2100000, guid: 66eddd4122233bf4d877850569165e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_27
+    second: {fileID: 2100000, guid: 148b9a77a42e1044dbdcb7b46f7d2ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_28
+    second: {fileID: 2100000, guid: 163ddfd962404fe46bc464c83808ebeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_29
+    second: {fileID: 2100000, guid: a148cca036d0188459e5317cefcf3195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_3
+    second: {fileID: 2100000, guid: 716a5d9c765fc5e4eb874714c66b2d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_30
+    second: {fileID: 2100000, guid: c4e8353bf77262d4ba02b365be7cc145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_31
+    second: {fileID: 2100000, guid: 68cfbff97af95e744b405ad8f30ae665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_32
+    second: {fileID: 2100000, guid: 757688d6a2b5a0c418f1cf2d7c3d6dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_35
+    second: {fileID: 2100000, guid: 10bdb9e6488645748aa6c6a1bedc3ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_36
+    second: {fileID: 2100000, guid: f68f7d09a1689ed4bbcac68a59519779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_38
+    second: {fileID: 2100000, guid: 4706e502b34223e47ba39561f43e982e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_4
+    second: {fileID: 2100000, guid: 77bc2429992480a428db449676e47297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_44
+    second: {fileID: 2100000, guid: dc1e1a8d903556a4fab112ae986204cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_49
+    second: {fileID: 2100000, guid: 2f9d41ef76f395e439113845825cb2c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_5
+    second: {fileID: 2100000, guid: 8d0f6d6610040f34889dfd75497c1cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_52
+    second: {fileID: 2100000, guid: ebeedc63a2f6c0742a060bdad6a76c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_59
+    second: {fileID: 2100000, guid: 453c23451e6893c44902aea15397755c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_6
+    second: {fileID: 2100000, guid: a52a5a343e09aa54fb8cbaa413c67368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_60
+    second: {fileID: 2100000, guid: de30ab2dc84f74b499ae5b1a9d143d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_61
+    second: {fileID: 2100000, guid: fd9f940a85135f74a9e4e9c39267fda3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_62
+    second: {fileID: 2100000, guid: 98be4030cebc6e34bb42b16ef2c5fdab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_63
+    second: {fileID: 2100000, guid: 664a70736e6c8d94195295e1646e67c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_68
+    second: {fileID: 2100000, guid: 09521485242281942a00efc40679c76a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_69
+    second: {fileID: 2100000, guid: 7bc63d5bf448dc44081cbc3f9e90f18e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_7
+    second: {fileID: 2100000, guid: aec91768c9031de489a15493d41a87b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_70
+    second: {fileID: 2100000, guid: 57d3e2844a0a34242a8e44b459a0f1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_71
+    second: {fileID: 2100000, guid: e45e957692e253647b50e145a82cd87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_72
+    second: {fileID: 2100000, guid: 7304a243108abf24286d7c35c97d0a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_73
+    second: {fileID: 2100000, guid: 12b853b53d6153e449833b1e19af708f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_8
+    second: {fileID: 2100000, guid: 055811c914371154890633e4546282d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_80
+    second: {fileID: 2100000, guid: 68febcc7b332fd14ba541c150b90f916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_81
+    second: {fileID: 2100000, guid: 20fd1a0d2bb76b648b2ccb38675b00b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_87
+    second: {fileID: 2100000, guid: 3da5273c2226add41afa8409f8869d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirCon1_9
+    second: {fileID: 2100000, guid: 5578bda5db0972a49927318f64c145e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeachLamps
+    second: {fileID: 2100000, guid: af034ab669d5c8a40a3b493d7bbbd0f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnConcrete
+    second: {fileID: 2100000, guid: b5ba50981f5d9ee4786f833578609029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnConcrete_0
+    second: {fileID: 2100000, guid: 6e2c5b8aadca0c1409a4de033ffc8d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnConcrete_1
+    second: {fileID: 2100000, guid: 27a1a811b4b03054da0f2ceda3a815e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnConcrete_2
+    second: {fileID: 2100000, guid: 8ed4cce49758be349a0d932427438cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnConcrete_3
+    second: {fileID: 2100000, guid: 87d446d0b9eec744294b2bcd221fb178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0edac74976be8f24bbfb0361b6615bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Merged_materials
+    second: {fileID: 2100000, guid: a31555ea35d56a94f98641f763f01f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MidcityText
+    second: {fileID: 2100000, guid: 632a5d00c7122e847b249da6d258532b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rebord
+    second: {fileID: 2100000, guid: 7c6803865c0cee64699e36ffcd016c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Relleno
+    second: {fileID: 2100000, guid: 37220a1af991e1945a43d13da64a6fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitres
+    second: {fileID: 2100000, guid: e195734d817bd7f4e96080f0293e8a2d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.015
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

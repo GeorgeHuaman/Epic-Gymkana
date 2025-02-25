@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_2
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Paracaidismo
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  sku: 8nuyb4rbrkeh2zyd6gmxl7fu
+  packageName: Gymkana Science Fair - EXPERIENCIA DE PARACAIDISMO
+  thumbnail: {fileID: 2800000, guid: 72a8a8669a9952247831ee53cf2614e3, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: 0fxf4zc2ep7892aybysti
   scene: {fileID: 102900000, guid: 949315a460866614fbc95dc94e97b87a, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 798180db0ef571846861e03fc65b1857,
     type: 3}

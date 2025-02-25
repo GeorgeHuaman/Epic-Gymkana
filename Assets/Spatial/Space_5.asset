@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 37ut57weh613wuyevy1p2vzi
-  packageName: "Gymkana Science Fair -LEONES 360\xB0 NAT GEO"
+  packageName: "Gymkana Science Fair - LEONES 360\xB0 NAT GEO"
   thumbnail: {fileID: 2800000, guid: d4c23a75a31f60846934b68a9f310d68, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}

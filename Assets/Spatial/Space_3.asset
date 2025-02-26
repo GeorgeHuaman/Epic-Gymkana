@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: mc52tru9vdlw9idqqfbm6sbw
-  packageName: "CAMINATA ESPACIAL 360\xB0"
+  packageName: "Gymkana Science Fair - CAMINATA ESPACIAL 360\xB0"
   thumbnail: {fileID: 2800000, guid: ef8cd6836f0bc214d93f141d5f1ab05b, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}

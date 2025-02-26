@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Gymkana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|e:\\proyectos\\epic-gymkana\\assets\\scripts\\paracaidismo\\parachutefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|e:\\proyectos\\epic-gymkana\\assets\\scripts\\caminandocontiburones\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\caminandocontiburones\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\proyectos\\epic-gymkana\\assets\\scripts\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\nasa\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\nasa\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\huertoespacial\\ui\\displayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\ui\\displayui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|E:\\Proyectos\\Epic-Gymkana\\assets\\scripts\\paracaidismo\\parachutefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AE6E94-B561-12D9-E139-DF1BB87FC661}|NewAssembly.csproj|solutionrelative:assets\\scripts\\paracaidismo\\parachutefall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChangeSkybox.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\CaminandoConTiburones\\ChangeSkybox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CaminandoConTiburones\\ChangeSkybox.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\CaminandoConTiburones\\ChangeSkybox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CaminandoConTiburones\\ChangeSkybox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:51:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeSkybox.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\ChangeSkybox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeSkybox.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\ChangeSkybox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeSkybox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:45:06.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageUI.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Nasa\\ImageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nasa\\ImageUI.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Nasa\\ImageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nasa\\ImageUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:50:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayUI.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\UI\\DisplayUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\UI\\DisplayUI.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\HuertoEspacial\\UI\\DisplayUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\UI\\DisplayUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:23:07.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ParachuteFall.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Gymkana\\Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
               "RelativeToolTip": "Assets\\Scripts\\Paracaidismo\\ParachuteFall.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:09:49.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T22:09:49.569Z"
             }
           ]
         }

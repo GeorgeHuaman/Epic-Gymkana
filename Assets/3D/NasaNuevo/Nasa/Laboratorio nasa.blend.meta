@@ -229,6 +229,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: PLANETAS.008
     second: {fileID: 2100000, guid: 99d3337868d057d43af1fc5235038bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: telescopeMaterial
+    second: {fileID: 2100000, guid: f74e2a08afb21d94dab6a7fb0d65ad06, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -249,7 +254,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -316,7 +321,7 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1

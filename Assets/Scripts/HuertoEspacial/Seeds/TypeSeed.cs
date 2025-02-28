@@ -36,11 +36,11 @@ public class TypeSeed : MonoBehaviour
         if (isActivate)
         {
             GrowProcces();
-            if (Input.GetKeyDown(KeyCode.E) && inZone && !verdureInZone)
-            {
-                if (!isReady)
-                    isWater = true;
-            }
+            //if (Input.GetKeyDown(KeyCode.E) && inZone && !verdureInZone)
+            //{
+            //    if (!isReady)
+            //        isWater = true;
+            //}
         }
         else
         {
@@ -48,7 +48,15 @@ public class TypeSeed : MonoBehaviour
         }
         
     }
-
+    public void Water()
+    {
+        if (!verdureInZone)
+        {
+            if (!isReady)
+                isWater = true;
+        }
+        
+    }
     private void GrowProcces()
     {
         if (isWater && !verdureInZone)

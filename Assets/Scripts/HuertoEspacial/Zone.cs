@@ -14,12 +14,21 @@ public class Zone : MonoBehaviour
     public bool inZone;
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && inZone && !typeSeedObject.verdureInZone && !typeSeedObject.isActivate)
+        //if (Input.GetKeyDown(KeyCode.E) && inZone && !typeSeedObject.verdureInZone && !typeSeedObject.isActivate)
+        //{
+        //    Plant();
+        //}
+
+    }
+
+    public void PlantInteract()
+    {
+        if (!typeSeedObject.verdureInZone && !typeSeedObject.isActivate)
         {
             Plant();
         }
-
     }
+
     public void Plant()
     {
         bool haveSeeds= seedsInventory.HaveSeeds(selectSeed.actualSeed);
